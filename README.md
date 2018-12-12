@@ -45,9 +45,14 @@ package
 
 # EXAMPLE:
 
-![alt text](https://raw.githubusercontent.com/chheda-r/Kandy-Kkrush/edit/master/Example of kandy kkrush.png)
+<p align="center">
+  <img src="Example of kandy kkrush.png" width="350" title="hover text">
+  <img src="Example of kandy kkrush 2.png" width="350" alt="accessibility text">
+</p>
 
-![alt text](https://raw.githubusercontent.com/chheda-r/Kandy-Kkrush/edit/master/Example of kandy kkrush 2.png)
+![alt text](https://raw.githubusercontent.com/chheda-r/Kandy-Kkrush/master/Example of kandy kkrush.png)
+
+![alt text](https://raw.githubusercontent.com/chheda-r/Kandy-Kkrush/master/Example of kandy kkrush 2.png)
 
 
 # How does this project works ?
