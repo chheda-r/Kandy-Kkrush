@@ -45,6 +45,9 @@ package
 
 # EXAMPLE:
 
+![alt text](https://raw.githubusercontent.com/chheda-r/Kandy-Kkrush/edit/master/Example of kandy kkrush.png)
+
+![alt text](https://raw.githubusercontent.com/chheda-r/Kandy-Kkrush/edit/master/Example of kandy kkrush 2.png)
 
 
 # How does this project works ?
