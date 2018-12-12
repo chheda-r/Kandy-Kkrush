@@ -49,9 +49,8 @@ package
   <img src="Example of kandy kkrush.png" width="350" title="hover text">
   <br>
   <br>
-  <img src="Example of kandy kkrush 2.png" width="350" alt="accessibility text">
+  <img src="Example of kandy kkrush 2.png" width="350">
 </p>
-
 
 # How does this project works ?
 
