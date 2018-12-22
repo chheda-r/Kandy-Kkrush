@@ -5,7 +5,7 @@ It's a Desktop Game Application that allows the player to crush candies by align
 This project is made using java, more specifically, applet, AWT and some Data Structure concepts.
 
 
-# HOW TO RUN THE PROGRAM:
+## HOW TO RUN THE PROGRAM:
 
   1. Open the command prompt.
   
@@ -20,7 +20,7 @@ This project is made using java, more specifically, applet, AWT and some Data St
   6. Program should work perfectly fine.
 
 
-# PROBLEM DEFINITION:
+## PROBLEM DEFINITION:
 
 Create a Game and design GUI designing using AWT. The game contains swapping of candies
 in minimum group of 3 to delete the candies in vertical or horizontal fashion. There are 31
@@ -35,7 +35,7 @@ the sound track and the “Game Over” sign appears with a “you win” or “
 depending on the score.
 
 
-# LIBRARIES USED: 
+## LIBRARIES USED: 
 
 The packages used are util, awt, event.
 In the awt.event package we have used ActionListener , MouseListener, Runnable interface.
@@ -43,7 +43,7 @@ We have used in-built data structures like stack, queue, linked list, hash set i
 package
 
 
-# EXAMPLE:
+## EXAMPLE:
 
 <p align="center">
   <img src="Example of kandy kkrush.png" width="350" title="hover text">
@@ -52,7 +52,7 @@ package
   <img src="Example of kandy kkrush 2.png" width="350">
 </p>
 
-# How does this project works ?
+## How does this project works ?
 
 When we open the applet the game loop starts. Now is divide in to three phases, in the first
 phase:- the background will be set to color, in the game phase 2 in the main grid tiles will be
